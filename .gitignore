@@ -1,0 +1,13 @@
+.venv/
+pycache/
+.pyc
+data/raw/
+data/processed/*
+artifacts/*
+*.egg-info/
+dist/
+build/
+.DS_Store
+.ipynb_checkpoints/
+tmp/
+.vscode/
