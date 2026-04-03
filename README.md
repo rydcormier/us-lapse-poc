@@ -432,7 +432,6 @@ us-lapse-poc/
   README.md                           # You are here
   pyproject.toml                      # Python deps + tooling config (ruff/black/pytest)
   Makefile                            # Convenience commands
-  .vscode/                            # VS Code recommended settings/launch configs
 
   scripts/
     export_uslapseagent.R             # Exports uslapseagent from CASdatasets -> data/raw/
