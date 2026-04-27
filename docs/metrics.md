@@ -81,7 +81,7 @@ Lift@Decile = (Top decile event rate) / (Base event rate)
 
 **What it is**: Mean squared error of predicted probabilities:
 
-Brier = mean$\left(\left(p-y\right)^2\right)$
+Brier = mean $\left(\left(p-y\right)^2\right)$
 
 **Why it matters here**:
 
